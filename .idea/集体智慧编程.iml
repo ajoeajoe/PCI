@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7.11 (D:\Program Files\python27\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="adaboost" />
+    <orderEntry type="module" module-name="code" />
+    <orderEntry type="module" module-name="PCI_Code Folder" />
+    <orderEntry type="module" module-name="pc" />
+    <orderEntry type="module" module-name="ipinyou" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="Machine Learning in Action" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="optimal-rtb-master" />
+    <orderEntry type="module" module-name="aliyinyue" />
+    <orderEntry type="module" module-name="aliyinyue" />
+    <orderEntry type="module" module-name="Allstate Claims Severity" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
